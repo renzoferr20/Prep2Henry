@@ -1,2 +1,1 @@
-# Prep2Henry
-Este es repositorio de prueba del prep modulo2
+Es proyecto es una prueba de como crear un repositorio desde github a mi computadora
